@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\GloboClima.Web.csproj": {}
+    "C:\\MyGit\\teste-tecnico-fullstack\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\GloboClima.Web.csproj": {}
   },
   "projects": {
-    "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\GloboClima.Web.csproj": {
+    "C:\\MyGit\\teste-tecnico-fullstack\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\GloboClima.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\GloboClima.Web.csproj",
+        "projectUniqueName": "C:\\MyGit\\teste-tecnico-fullstack\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\GloboClima.Web.csproj",
         "projectName": "GloboClima.Web",
-        "projectPath": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\GloboClima.Web.csproj",
+        "projectPath": "C:\\MyGit\\teste-tecnico-fullstack\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\GloboClima.Web.csproj",
         "packagesPath": "C:\\Users\\jpsar\\.nuget\\packages\\",
-        "outputPath": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\obj\\",
+        "outputPath": "C:\\MyGit\\teste-tecnico-fullstack\\teste-tecnico-fullstack\\GloboClima\\GloboClima.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

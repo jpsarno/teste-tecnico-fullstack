@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GloboClima.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6ad54ad8c538eb6080f72f8453b01d82359141b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GloboClima.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GloboClima.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

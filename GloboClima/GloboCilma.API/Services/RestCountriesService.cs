@@ -26,12 +26,9 @@ namespace GloboCilma.API.Services
             
             if (response.IsSuccessStatusCode)
             {                
-                var contentStream = await response.Content.ReadAsStreamAsync();
-                string countryResp = await response.Content.ReadAsStringAsync();
-                List<CountryResponse> c = JsonConvert.DeserializeObject<List<CountryResponse>>(countryResp);
-                var restCountriesResponse = await System.Text.Json.JsonSerializer.DeserializeAsync<List<CountryResponse>>(contentStream);
-                
-                return restCountriesResponse;
+                string countryResp = await response.Content.ReadAsStringAsync().ConfigureAwait(false);
+                                               
+                return System.Text.Json.JsonSerializer.Deserialize<List<CountryResponse>>(countryResp, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
             }
             else
             {

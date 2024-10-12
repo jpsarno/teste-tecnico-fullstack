@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sz708AfI5rQ=",
+  "dgSpecHash": "kJCYIY7a22w=",
   "success": true,
-  "projectFilePath": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\GloboCilma.API.csproj",
+  "projectFilePath": "C:\\MyGit\\teste-tecnico-fullstack\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\GloboCilma.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jpsar\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\jpsar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

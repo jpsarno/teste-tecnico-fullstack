@@ -19,6 +19,11 @@ namespace GloboCilma.API.Controllers
             _countriesService = countriesService;
         }
 
+        /// <summary>
+        /// Consultar informações do clima por nome da cidade
+        /// </summary>
+        /// <param name="location">Nome da Cidade</param>
+        /// <returns>Json com informações dos últimos 5 dias</returns>
         [HttpGet("weather")]
         public async Task<IActionResult> GetWeatherInfo(string location, Unit unit = Unit.Metric)
         {
@@ -42,6 +47,11 @@ namespace GloboCilma.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Consultar informações de um país
+        /// </summary>
+        /// <param name="fullName">Nome completo do país</param>
+        /// <returns>Json com as informações do país consultado</returns>
         [HttpGet("country")]
         public async Task<IActionResult> GetCountryInfo(string fullName)
         {
