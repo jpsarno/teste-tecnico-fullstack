@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|c:\\mygit\\teste-tecnico-fullstack\\globoclima\\globocilma.api\\services\\restcountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|solutionrelative:globocilma.api\\services\\restcountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|c:\\mygit\\teste-tecnico-fullstack\\globoclima\\globocilma.api\\models\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|solutionrelative:globocilma.api\\models\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|c:\\mygit\\teste-tecnico-fullstack\\globoclima\\globocilma.api\\models\\openweatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|solutionrelative:globocilma.api\\models\\openweatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|c:\\mygit\\teste-tecnico-fullstack\\globoclima\\globocilma.api\\services\\irestcountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|solutionrelative:globocilma.api\\services\\irestcountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|c:\\mygit\\teste-tecnico-fullstack\\globoclima\\globocilma.api\\controllers\\globoclimaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|solutionrelative:globocilma.api\\controllers\\globoclimaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|c:\\mygit\\teste-tecnico-fullstack\\globoclima\\globocilma.api\\services\\openweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|solutionrelative:globocilma.api\\services\\openweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|c:\\mygit\\teste-tecnico-fullstack\\globoclima\\globocilma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|solutionrelative:globocilma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|c:\\mygit\\teste-tecnico-fullstack\\globoclima\\globocilma.api\\services\\iopenweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870404A7-F1C4-4230-AB71-60E08F0E580E}|GloboCilma.API\\GloboCilma.API.csproj|solutionrelative:globocilma.api\\services\\iopenweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GloboClimaApiController.cs",
+              "DocumentMoniker": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Controllers\\GloboClimaApiController.cs",
+              "RelativeDocumentMoniker": "GloboCilma.API\\Controllers\\GloboClimaApiController.cs",
+              "ToolTip": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Controllers\\GloboClimaApiController.cs",
+              "RelativeToolTip": "GloboCilma.API\\Controllers\\GloboClimaApiController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:56:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Models\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "GloboCilma.API\\Models\\CountryResponse.cs",
+              "ToolTip": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Models\\CountryResponse.cs",
+              "RelativeToolTip": "GloboCilma.API\\Models\\CountryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:49:40.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenWeatherResponse.cs",
+              "DocumentMoniker": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Models\\OpenWeatherResponse.cs",
+              "RelativeDocumentMoniker": "GloboCilma.API\\Models\\OpenWeatherResponse.cs",
+              "ToolTip": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Models\\OpenWeatherResponse.cs",
+              "RelativeToolTip": "GloboCilma.API\\Models\\OpenWeatherResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:09:58.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestCountriesService.cs",
+              "DocumentMoniker": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Services\\RestCountriesService.cs",
+              "RelativeDocumentMoniker": "GloboCilma.API\\Services\\RestCountriesService.cs",
+              "ToolTip": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Services\\RestCountriesService.cs",
+              "RelativeToolTip": "GloboCilma.API\\Services\\RestCountriesService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:51:01.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenWeatherService.cs",
+              "DocumentMoniker": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Services\\OpenWeatherService.cs",
+              "RelativeDocumentMoniker": "GloboCilma.API\\Services\\OpenWeatherService.cs",
+              "ToolTip": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Services\\OpenWeatherService.cs",
+              "RelativeToolTip": "GloboCilma.API\\Services\\OpenWeatherService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:21:18.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRestCountriesService.cs",
+              "DocumentMoniker": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Services\\IRestCountriesService.cs",
+              "RelativeDocumentMoniker": "GloboCilma.API\\Services\\IRestCountriesService.cs",
+              "ToolTip": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Services\\IRestCountriesService.cs",
+              "RelativeToolTip": "GloboCilma.API\\Services\\IRestCountriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:41:32.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOpenWeatherService.cs",
+              "DocumentMoniker": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Services\\IOpenWeatherService.cs",
+              "RelativeDocumentMoniker": "GloboCilma.API\\Services\\IOpenWeatherService.cs",
+              "ToolTip": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Services\\IOpenWeatherService.cs",
+              "RelativeToolTip": "GloboCilma.API\\Services\\IOpenWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:16:35.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Program.cs",
+              "RelativeDocumentMoniker": "GloboCilma.API\\Program.cs",
+              "ToolTip": "C:\\MyGit\\teste-tecnico-fullstack\\GloboClima\\GloboCilma.API\\Program.cs",
+              "RelativeToolTip": "GloboCilma.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvxMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:55:30.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

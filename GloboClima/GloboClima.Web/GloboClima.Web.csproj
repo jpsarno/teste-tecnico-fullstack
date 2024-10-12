@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<UserSecretsId>37b300ef-6e72-4916-a8c2-e3ac49b2ee20</UserSecretsId>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "GloboCilma.API.Controllers.GloboClimaApiController",
+    "Method": "GetCountryInfo",
+    "RelativePath": "api/v1/GloboClimaApi/country",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fullName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GloboCilma.API.Controllers.GloboClimaApiController",
+    "Method": "GetWeatherInfo",
+    "RelativePath": "api/v1/GloboClimaApi/weather",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "location",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "unit",
+        "Type": "GloboCilma.API.Models.Enums.Unit",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
